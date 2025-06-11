@@ -56,13 +56,13 @@ _Read my undergraduate thesis here:_ [Senior_Thesis](https://github.com/Bela-Arw
 - **Email:** bela.arwen@stonybrook.edu  
 - **LinkedIn:** [linkedin.com/in/belaarwen](https://www.linkedin.com/in/belaarwen/)
 
----
+<!---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bela-Arwen-SBU&show_icons=true&hide_title=true)
 
----
+--->
 
 _Thank you for visiting my profile. If you share an interest in cosmology, scientific computing, or simply want to talk about science, nature, or philosophy—I am always happy to connect._
 
