@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Bela Arwen
 
-Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony Brook University, where I conduct research in Dr. Vivian Miranda’s Cosmology group. My academic journey began with a BA in Astronomy and Physics, with a minor in Mathematics, and has evolved into a passion for unraveling the mysteries of our universe through both observation and theory.
+Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony Brook University, where I conduct research in Dr. Vivian Miranda’s Cosmology group. My academic journey began at Vassar College with a BA in Astronomy and Physics, with a minor in Mathematics, and has evolved into my current endevour: a MA in Physics from Stony Brook University. Throughout, I have been guided by a passion for unraveling the mysteries of our universe through both observation and theory.
 
 ---
 
