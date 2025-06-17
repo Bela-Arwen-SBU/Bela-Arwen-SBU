@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Bela Arwen
 
-Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony Brook University, where I conduct research in Dr. Vivian Miranda’s Cosmology group. My academic journey began at Vassar College with a BA in Astronomy and Physics, with a minor in Mathematics, and has evolved into my current endevour: a MA in Physics from Stony Brook University. Throughout, I have been guided by a passion for unraveling the mysteries of our universe through both observation and theory.
+Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony Brook University, where I conduct research in Dr. Vivian Miranda’s Cosmology group. My academic journey began at Vassar College with a BA in Astronomy and Physics, and a minor in Mathematics, where I wrote my thesis on spectroscopic analysis of a novel wavelength regime of protoplanetary disks with novel data from JSWT. Throughout, I have been guided by a passion for unraveling the mysteries of our universe through both observation and theory.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony 
 ## 🛠 Technical Experience
 
 - **Scientific Computing:** Python (data analysis, simulations), C (CLASS Boltzmann solver), Bash/Shell scripting, LaTeX (scientific writing), C++/Fortran (coursework, CAMB).
-- **Data Science:** Spectroscopic data analysis from the James Webb Space Telescope (JWST). 
+- **Data Science:** Spectroscopic data analysis from the James Webb Space Telescope (JWST), SQL (data ingestion and wrangling). 
 - **Research Tools:** CLASS (C), CAMB (Fortran).
 
 ---
@@ -41,7 +41,7 @@ _Read my undergraduate thesis here:_ [Senior_Thesis](https://github.com/Bela-Arw
 ## 🩰🚣🧐🌱🪻 Beyond Physics
 
 - Classically trained ballet dancer for 12 years
-- Former Captain of the Vassar College Men’s Rowing Team
+- Former Captain of the Vassar College Men’s Rowing Team 
 - Enthusiast of philosophy and open scientific inquiry
 - Deeply connected to nature—plants are a constant companion in my life
 - Admirer of Carl Sagan and his wisdom
