@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony 
 
 - **Scientific Computing:** Python (data analysis, simulations), C (CLASS Boltzmann solver), Bash/Shell scripting, LaTeX (scientific writing), C++/Fortran (coursework, CAMB).
 - **Data Science:** Spectroscopic data analysis from the James Webb Space Telescope (JWST), SQL (data ingestion and wrangling). 
-- **Research Tools:** CLASS (C), CAMB (Fortran).
+- **Research Tools:** CLASS (C), CAMB (Fortran), ROOT.
 
 ---
 
