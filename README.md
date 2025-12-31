@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Bela Arwen
 
-Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony Brook University, where I conduct research in Dr. Vivian Miranda’s Cosmology group. My academic journey began at Vassar College with a BA in Astronomy and Physics, and a minor in Mathematics, where I wrote my thesis on spectroscopic analysis of a novel wavelength regime of protoplanetary disks with novel data from JSWT. Throughout, I have been guided by a passion for unraveling the mysteries of our universe through both observation and theory.
+Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony Brook University, where I conduct research in Dr. Vivian Miranda’s Cosmology group within the C.N. Yang Institute for Theoretical Physics. My academic journey began at Vassar College with a BA in Astronomy and Physics, and a minor in Mathematics, where I wrote my thesis on spectroscopic analysis of a novel wavelength regime of protoplanetary disks with novel data from JSWT. Throughout, I have been guided by a passion for unraveling the mysteries of our universe through both observation and theory.
 
 ---
 
 ## 🔭 About Me
 
-- **Current Role:** MA Physics Student, Stony Brook University  
+- **Current Role:** MA Physics Student, C.N. Yang Institute for Theoretical Physical, Stony Brook University  
 - **Research Group:** Vivian Miranda's Cosmology Research Group  
 - **Undergraduate Degree:** BA in Astronomy & Physics (Minor in Mathematics)  
 - **Research Focus:** Cosmology, dark energy, and the application of computational techniques to fundamental questions in physics.
@@ -27,6 +27,8 @@ Welcome to my GitHub profile. I am currently pursuing an MA in Physics at Stony 
 - Modified Recombination & Modified Gravity
 - Parameterized Post-Friedmann Signatures
 - Comparative analysis of CLASS and CAMB cosmology codes
+- Machine learning techniques for cosmological parameter inference
+- Transfer learning for cosmological emulators
 
 ---
 
